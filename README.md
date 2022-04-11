@@ -47,4 +47,4 @@ The datafile is named [Puma_descriptors.csv](). It is in fixed comma-separated f
   4.	“Satellite”: PUMAs with a largest place that is a suburb or satellite to a larger place.
   5.	“Core City”: PUMAS with a city of 150,000 or more that is either the largest place in the CBSA or larger than any other contiguous place.
 
-See [variable_details]() for a description of the variables, their coding, and their uses.
+See [variable_details](https://github.com/Charles-Murray1/PUMA-descriptors/blob/main/variable_details.pdf) for a description of the variables, their coding, and their uses.
