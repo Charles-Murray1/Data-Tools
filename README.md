@@ -40,11 +40,11 @@ The datafile is named [puma_descriptors.csv](https://github.com/Charles-Murray1/
 * **simpledensity**: The PUMA’s population divided by the PUMA’s square miles of land area. 
 * **princity**: The Census Bureau’s officially designated Principal City associated with the PUMA. If a PUMA is not associated with any Principal City, _princity_ is coded “No Principal City.” 
 * **princitypop**: The 2020 population of _princity_. 
-* **altmetro**: A categorical variable characterizing the PUMAs with the following codes
-  1.	“Rural”: An agricultural or otherwise sparsely populated PUMA with a largest place of fewer than 20,000 people that is not contiguous with another place.
-  2.	“Town”: PUMAs with a largest place of fewer than 50,000 people that is not contiguous with another place.
-  3.	“Small City”: PUMAs with a largest place consisting of a town of 50,000–149,999 people that is not contiguous with a larger place.
-  4.	“Satellite”: PUMAs with a largest place that is a suburb or satellite to a larger place.
-  5.	“Core City”: PUMAS with a city of 150,000 or more that is either the largest place in the CBSA or larger than any other contiguous place.
+* **altmetro**: A categorical variable characterizing the PUMAs with the following codes:  
+  1 “Rural”: An agricultural or otherwise sparsely populated PUMA with a largest place of fewer than 20,000 people that is not contiguous with another place.  
+  2 “Town”: PUMAs with a largest place of fewer than 50,000 people that is not contiguous with another place.  
+  3 “Small City”: PUMAs with a largest place consisting of a town of 50,000–149,999 people that is not contiguous with a larger place.  
+  4 “Satellite”: PUMAs with a largest place that is a suburb or satellite to a larger place.  
+  5 “Core City”: PUMAS with a city of 150,000 or more that is either the largest place in the CBSA or larger than any other contiguous place.  
 
 See [variable_details](https://github.com/Charles-Murray1/PUMA-descriptors/blob/main/variable_details.pdf) for a description of the variables, their coding, and their uses.
