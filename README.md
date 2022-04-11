@@ -8,10 +8,10 @@ For all questions and errata associated with PUMA Descriptors, please email cmur
 
 * _ACS 2015-19_: The five year aggregation of the American Community Survey for 2015 through 2019. Downloaded from [IPUMS USA](https://usa.ipums.org/usa/)
 * _2020 population data_: [2020 Decennial Census](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html). The data were downloaded from [Social Explorer](https://www.socialexplorer.com/).
-* _Summary data by PUMA_: Downloaded from [Social Explorer](https://www.socialexplorer.com/), which has a $100/month subscription fee. The data are also available without cost at [IPUMS NHGIS](www.nhgis.org).
+* _Summary data by PUMA_: Downloaded from [Social Explorer](https://www.socialexplorer.com/), which has a $100/month subscription fee. The data are also available without cost at [IPUMS NHGIS](https://www.nhgis.org/).
 * _Individual PUMA maps and their descriptive titles_: Accessed at [Census.gov/Census Reference Maps/2010 Census Public Use Microdata Area (PUMA) Reference Maps](https://www.census.gov/geographies/reference-maps/2010/geo/2010-pumas.html). These maps consist of a single PUMA showing towns and cities within the PUMA.
 * _PUMA maps in national context_: Both Social Explorer and NHGIS use the PUMA as a geography for national maps, enabling comparison of PUMA borders and CBSA borders.
-* _Google Maps_: [Google Maps](www.google.com/maps) was used to assess the relationship of the towns in a PUMA to nearby urban areas. 
+* _Google Maps_: [Google Maps](https://www.google.com/maps) was used to assess the relationship of the towns in a PUMA to nearby urban areas. 
 
 ## Nomenclature
 
