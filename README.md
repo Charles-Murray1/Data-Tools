@@ -22,7 +22,7 @@ For all questions and errata associated with PUMA Descriptors, please email cmur
 
 ## Codebook
 
-The datafile is named [Puma_descriptors.csv](). It is in fixed comma-separated format with variable names in the first line. The file has 17 variables. The universe for the variables consists of the 2,351 PUMAs in the 50 states.
+The datafile is named [Puma_descriptors.csv](https://github.com/Charles-Murray1/PUMA-descriptors/blob/main/puma_descriptors.csv). It is in fixed comma-separated format with variable names in the first line. The file has 17 variables. The universe for the variables consists of the 2,351 PUMAs in the 50 states.
 
 * **state**: Two-letter postal code for states. 
 * **statefip**: FIPS numeric code for states. 
