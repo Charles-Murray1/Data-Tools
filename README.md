@@ -1,5 +1,7 @@
 # PUMA-descriptors
 
+The data, coding, and associated documentation found here in the PUMA-descriptors repository is directly related with Dr. Charles Murray’s AEI working paper “Introducing Data Tools” due to be published in April, 2022.
+
 ## Contact
 
 For all questions and errata associated with PUMA Descriptors, please email cmurray@aei.org. 
