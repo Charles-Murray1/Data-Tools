@@ -1,6 +1,6 @@
 # PUMA-descriptors
 
-The data, coding, and associated documentation found here in the PUMA-descriptors repository is directly related with Dr. Charles Murray’s AEI working paper “Introducing Data Tools” due to be published in April, 2022.
+The data, coding, and associated documentation found here in the PUMA-descriptors repository is directly related with Dr. Charles Murray’s AEI working paper ["Data Tools 1: Deciphering the Location of Respondents in the American Community Survey"](https://www.aei.org/research-products/working-paper/puma-descriptors/) published on April 14, 2022.
 
 ## Contact
 
